@@ -25,7 +25,6 @@
                     </div>
                 </div>
             </div>
-            {{ $animes }}
         </div>
 
         <!-- Compiled and minified JavaScript -->
